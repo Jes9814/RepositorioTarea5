@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         CCuenta objetoCuenta;
         double saldoActual;
-	System.out.prinln("Quiero acabar esta pesadilla de grado");
+	System.out.println("Quiero acabar esta pesadilla de grado");
 	//Necesito ayuda
         objetoCuenta = new CCuenta("Antonio López", "1000-2365-85-1230456789", 2500, 0);
         saldoActual = objetoCuenta.estado();
